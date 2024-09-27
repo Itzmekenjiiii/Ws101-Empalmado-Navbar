@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ws101-Empalmado-Navbar/static/css/main.ae593d4a.css",
+    "main.js": "/Ws101-Empalmado-Navbar/static/js/main.e780b339.js",
+    "index.html": "/Ws101-Empalmado-Navbar/index.html",
+    "main.ae593d4a.css.map": "/Ws101-Empalmado-Navbar/static/css/main.ae593d4a.css.map",
+    "main.e780b339.js.map": "/Ws101-Empalmado-Navbar/static/js/main.e780b339.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae593d4a.css",
+    "static/js/main.e780b339.js"
+  ]
+}
